@@ -28,3 +28,20 @@ h2 {
     padding: 80px;
     padding-top: 0;
 }
+
+.basico {
+    font-style: bold;
+    font-size: larger;
+}
+
+.intermediario {
+
+}
+
+.avancado {
+
+}
+
+.destaque {
+    background-color: yellowgreen;
+}
